@@ -1,0 +1,11 @@
+{
+  "name": "mcp-suno-local",
+  "version": "1.0.0",
+  "bin": {
+    "mcp-suno": "build/index.js"
+  },
+  "type": "module",
+  "files": [
+    "build"
+  ]
+}
